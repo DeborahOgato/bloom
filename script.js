@@ -144,10 +144,10 @@ function animate() {
     }
     });
 
-  // Title text
+ 
   ctx.fillStyle = "white";
   ctx.font = "28px Arial";
-  ctx.fillText("Lumina Bloom", 30, 50);
+  ctx.fillText("Bloomwave", 30, 50);
 
   ctx.font = "18px Arial";
   ctx.fillText("Move your mouse to grow flowers", 30, 80);
